@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1586355941 source:c:\users\feyzanur\quiz1matris\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
